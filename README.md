@@ -34,7 +34,7 @@ A web-based application for generating images using Generative Adversarial Netwo
 ---
 
 ## Project Structure
-
+```
 GAN-App/
 ├── api/ # Backend API (Python Flask)
 ├── app/ # Frontend (HTML/JS)
@@ -46,7 +46,7 @@ GAN-App/
 ├── LICENSE
 └── README.md
 ---
-
+```
 ## Installation
 
 ### Prerequisites
